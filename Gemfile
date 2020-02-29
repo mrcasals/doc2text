@@ -2,7 +2,7 @@ source 'https://rubygems.org'
 
 gem "nokogiri", ">= 1.10.5"
 gem "rubyzip", ">= 2.0.0"
-gem 'rake', '~> 10.4.2'
+gem 'rake', '~> 12.3.3'
 
 group :development do
   gem 'rspec', '~> 3.1.0'
